@@ -1,6 +1,6 @@
 import React from 'react';
 import './ImageLinkForm.css';
-const Navigation = () => {
+const ImageLinkForm = () => {
 	return (
 		<div>
 			<p className='f3'>
@@ -17,4 +17,4 @@ const Navigation = () => {
 	);
 }
 
-export default Navigation;
+export default ImageLinkForm;
